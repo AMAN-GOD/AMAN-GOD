@@ -2,7 +2,7 @@
  <h6 align= "center">Hi 👋🏻 I'm AMAN VERMA</h6>
 <p align="center">
   <samp>. <a href="https://www.instagram.com/ama_nverma2005">Instagram</a> .
-    <a href="mailto:premdevconnect@gmail.com">Mail</a> .
+    <a href="mailto:amanverma86205@gmail.com">Mail</a> .
 <a href="https://www.linkedin.com/in/mpremk/">LinkedIn</a> .
   </samp>
 </p>
