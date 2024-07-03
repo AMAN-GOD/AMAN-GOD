@@ -10,9 +10,9 @@
 ###
 - 🎮 A passionate Game developer from India
 
-- 🌱 I’m currently learning **C++, Javascript**
+- 🌱 I’m currently learning **C++,HTML**
 
-- 📫 How to reach me **Prem.devconnect@gmail.com**
+- 📫 How to reach me **amanverma86205@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
